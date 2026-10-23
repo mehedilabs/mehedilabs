@@ -156,6 +156,26 @@ I'm following a full-stack web development roadmap, learning:
 
 ---
 
+## GitHub
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedilabs&layout=compact&theme=graywhite&hide_border=true&langs_count=6&title_color=111827&text_color=6B7280" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedilabs&theme=graywhite&hide_border=true&stroke=6B7280&ring=6B7280&fire=6B7280&currStreakLabel=111827" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehedilabs/mehedilabs/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedilabs/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mehedilabs2) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedi.hasan.bd.dev@gmail.com)
